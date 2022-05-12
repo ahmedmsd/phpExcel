@@ -1,0 +1,1 @@
+All curly brackets replaced by square brackets
